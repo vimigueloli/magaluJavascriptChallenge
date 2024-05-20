@@ -19,8 +19,10 @@ Durante o scroll da página, é exibida uma caixa de informações flutuante com
 
 ## Soluções e como testa-las
 
-Todas as soluções desse desafio estão nesse repositório dentro do arquivo [solution.js](). Para testar as soluções por mim desenvolvidas copie o conteúdo do arquivo [solution.js](), abra as ferramentas de desenvolvedor do google chrome, selecione a aba de "Sources", depois selecione a opção de "Snippets" no menu localizado à esquerda, adicione um novo snippet clicando em "+ New snippet", cole o conteúdo do arquivo [solution.js]() na area indicada para colocar o códico e por fim salve o snippet com o comando "CTRL+S".
+Todas as soluções desse desafio estão nesse repositório dentro do arquivo [solution.js](https://github.com/vimigueloli/magaluJavascriptChallenge/blob/main/solution.js). Para testar as soluções por mim desenvolvidas copie o conteúdo do arquivo [solution.js](https://github.com/vimigueloli/magaluJavascriptChallenge/blob/main/solution.js), abra as ferramentas de desenvolvedor do google chrome, selecione a aba de "Sources", depois selecione a opção de "Snippets" no menu localizado à esquerda, adicione um novo snippet clicando em "+ New snippet", cole o conteúdo do arquivo [solution.js](https://github.com/vimigueloli/magaluJavascriptChallenge/blob/main/solution.js) na area indicada para colocar o códico e por fim salve o snippet com o comando "CTRL+S".
+<br />
 <br />
 ![tutorial](https://github.com/vimigueloli/magaluJavascriptChallenge/assets/49453260/070f335f-19a4-4aad-9f5a-9c84fe48e7ed)
+<br/>
 <br/>
 Ao salvar o snippet você tem uma cópia das soluções desenvolvidas por mim salvas em seu navegador e prontas para serem executadas. Agora para testar as soluções acesse a [pagina de compra de um produto da Magazine Luiza](https://m.magazineluiza.com.br/console-sony-playstation-5-standard-edition-825gb-ps5/p/hcb4a552ed/ga/gps5/), abra novamente as ferramentas de desenvolvedor do Google Chrome, se redirecione novamente para a parte das ferramentas que lista os snippets, clique no snippet criado com o botão direito do mouse e aperte a opção "Run".
