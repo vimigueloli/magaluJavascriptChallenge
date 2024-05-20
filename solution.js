@@ -10,7 +10,6 @@ function searchInArrayForm(tag){
 }
 // --------------------- //
 
-
 function changeDiscountDisplay(){
     let array = searchInArrayForm('div')
     array = array.filter((item)=>item.dataset.testid == 'price-default')
@@ -45,7 +44,6 @@ function changeFloatButton(){
     floatButton.style = 'background-color: #0086ff'
     floatButton.innerHTML = buyButton.innerHTML
 }
-
 
 
 // 1) Ao invés da mensagem de porcentagem de desconto no PIX, informar o desconto em REAL da diferença entre o preço de antes e o atual da página do produto (Lembre-se que deverá ser aplicado valores reais da página do produto, ou seja, é preciso que a diferença dos valores seja automática e não manualmente inserida).
